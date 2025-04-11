@@ -77,7 +77,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
@@ -114,6 +114,7 @@
       <workItem from="1715516968085" duration="3188000" />
       <workItem from="1715558448256" duration="23028000" />
       <workItem from="1744348617161" duration="30000" />
+      <workItem from="1744348703843" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="system">
       <option name="closed" value="true" />
