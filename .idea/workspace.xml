@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="327fbed9-8c60-48e9-a8e4-d1e4edb84b1e" name="Changes" comment="reprompt issue" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lol8005&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lol8005/DASHPointRewardSystem.git&quot;,
+    &quot;accountId&quot;: &quot;7ff6abb5-54d7-4f83-86bf-5eafa20e2fdf&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/dashpointrewardsystem/DASHPointRewardSystem.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2emLCuOlZAx9c2zTNZ31cX66ZHn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.DASHPointRewardSystem (1).executor": "Run",
+    "Application.DASHPointRewardSystem (2).executor": "Debug",
+    "Application.DASHPointRewardSystem (3).executor": "Run",
+    "Application.DASHPointRewardSystem.executor": "Run",
+    "Application.FoodFoodPointRewardingSystem.executor": "Run",
+    "Application.testing.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Siah E-Ian/Desktop/DASHPointRewardSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding_Learning\DASHPointRewardSystem\src\dashpointrewardsystem" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="327fbed9-8c60-48e9-a8e4-d1e4edb84b1e" name="Changes" comment="" />
+      <created>1712504683928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712504683928</updated>
+      <workItem from="1715229305987" duration="106000" />
+      <workItem from="1715231313601" duration="93000" />
+      <workItem from="1715491182350" duration="6689000" />
+      <workItem from="1715516968085" duration="3188000" />
+      <workItem from="1715558448256" duration="23028000" />
+      <workItem from="1744348617161" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="system">
+      <option name="closed" value="true" />
+      <created>1713015259241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713015259241</updated>
+    </task>
+    <task id="LOCAL-00002" summary="system">
+      <option name="closed" value="true" />
+      <created>1713517306781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713517306781</updated>
+    </task>
+    <task id="LOCAL-00003" summary="move to package">
+      <option name="closed" value="true" />
+      <created>1713623110825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713623110825</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update login sql due to new DB structure">
+      <option name="closed" value="true" />
+      <created>1713623421119</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713623421119</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update login sql due to new DB structure">
+      <option name="closed" value="true" />
+      <created>1714029339380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714029339380</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update login sql due to new DB structure">
+      <option name="closed" value="true" />
+      <created>1714112261635</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714112261635</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update login sql due to new DB structure">
+      <option name="closed" value="true" />
+      <created>1714112326089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714112326089</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update login sql due to new DB structure">
+      <option name="closed" value="true" />
+      <created>1714112409150</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714112409150</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update login sql due to new DB structure">
+      <option name="closed" value="true" />
+      <created>1714113832898</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113832898</updated>
+    </task>
+    <task id="LOCAL-00010" summary="IDL what i did. Add some top management functionality">
+      <option name="closed" value="true" />
+      <created>1715106825186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715106825186</updated>
+    </task>
+    <task id="LOCAL-00011" summary="IDL what i did. Add some top management functionality">
+      <option name="closed" value="true" />
+      <created>1715107130487</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715107130487</updated>
+    </task>
+    <task id="LOCAL-00012" summary="IDL what i did. Add some top management functionality">
+      <option name="closed" value="true" />
+      <created>1715107168262</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715107168262</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Report and redeemable item functionality added&#10;&#10;Add menu (not complete) with nested class">
+      <option name="closed" value="true" />
+      <created>1715165860856</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715165860856</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add register functionality">
+      <option name="closed" value="true" />
+      <created>1715326026036</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715326026036</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Improve DB performance">
+      <option name="closed" value="true" />
+      <created>1715340403544</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715340403544</updated>
+    </task>
+    <task id="LOCAL-00016" summary="DB library">
+      <option name="closed" value="true" />
+      <created>1715340617725</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715340617725</updated>
+    </task>
+    <task id="LOCAL-00017" summary="DB library">
+      <option name="closed" value="true" />
+      <created>1715341151351</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715341151351</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Improve DB performance">
+      <option name="closed" value="true" />
+      <created>1715342634630</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715342634630</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Qian Yiin Code fixed and updated">
+      <option name="closed" value="true" />
+      <created>1715496865199</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715496865199</updated>
+    </task>
+    <task id="LOCAL-00020" summary="IDK what is this">
+      <option name="closed" value="true" />
+      <created>1715496997097</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715496997097</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Remove input output from staff class">
+      <option name="closed" value="true" />
+      <created>1715497730209</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1715497730209</updated>
+    </task>
+    <task id="LOCAL-00022" summary=".">
+      <option name="closed" value="true" />
+      <created>1715503292720</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715503292720</updated>
+    </task>
+    <task id="LOCAL-00023" summary=".">
+      <option name="closed" value="true" />
+      <created>1715503349321</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715503349321</updated>
+    </task>
+    <task id="LOCAL-00024" summary=".">
+      <option name="closed" value="true" />
+      <created>1715511919103</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715511919103</updated>
+    </task>
+    <task id="LOCAL-00025" summary=".">
+      <option name="closed" value="true" />
+      <created>1715512231573</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715512231573</updated>
+    </task>
+    <task id="LOCAL-00026" summary=".">
+      <option name="closed" value="true" />
+      <created>1715512252755</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1715512252755</updated>
+    </task>
+    <task id="LOCAL-00027" summary=".">
+      <option name="closed" value="true" />
+      <created>1715512361561</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715512361561</updated>
+    </task>
+    <task id="LOCAL-00028" summary=".">
+      <option name="closed" value="true" />
+      <created>1715512373086</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715512373086</updated>
+    </task>
+    <task id="LOCAL-00029" summary=".">
+      <option name="closed" value="true" />
+      <created>1715513398173</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1715513398173</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Staff no need name, username in user class">
+      <option name="closed" value="true" />
+      <created>1715527857736</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1715527857736</updated>
+    </task>
+    <task id="LOCAL-00031" summary="remove register">
+      <option name="closed" value="true" />
+      <created>1715529048519</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1715529048519</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Color welcome screen, move general function and SLD to Util folder">
+      <option name="closed" value="true" />
+      <created>1715607881962</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715607881962</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Tier point and point validity check">
+      <option name="closed" value="true" />
+      <created>1715622732198</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1715622732198</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Disclaimer and move login register to util">
+      <option name="closed" value="true" />
+      <created>1715682008952</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1715682008952</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Thank you">
+      <option name="closed" value="true" />
+      <created>1715682297205</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1715682297205</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Repeat display DASH">
+      <option name="closed" value="true" />
+      <created>1715688649332</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1715688649333</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Report">
+      <option name="closed" value="true" />
+      <created>1715693960424</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1715693960424</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Modify on-shelf status">
+      <option name="closed" value="true" />
+      <created>1715696525581</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1715696525581</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fixed logic error&#10;simplify code&#10;change incorrect spelling&#10;fixed some warning">
+      <option name="closed" value="true" />
+      <created>1715749659983</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1715749659983</updated>
+    </task>
+    <task id="LOCAL-00040" summary="revert some changes">
+      <option name="closed" value="true" />
+      <created>1715751044643</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1715751044643</updated>
+    </task>
+    <task id="LOCAL-00041" summary="sql">
+      <option name="closed" value="true" />
+      <created>1715752401230</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1715752401230</updated>
+    </task>
+    <task id="LOCAL-00042" summary="logout text">
+      <option name="closed" value="true" />
+      <created>1715764991525</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1715764991525</updated>
+    </task>
+    <task id="LOCAL-00043" summary="logout text">
+      <option name="closed" value="true" />
+      <created>1715771154508</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1715771154508</updated>
+    </task>
+    <task id="LOCAL-00044" summary="row pos">
+      <option name="closed" value="true" />
+      <created>1715772805415</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1715772805415</updated>
+    </task>
+    <task id="LOCAL-00045" summary="category">
+      <option name="closed" value="true" />
+      <created>1715777017553</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1715777017553</updated>
+    </task>
+    <task id="LOCAL-00046" summary="category">
+      <option name="closed" value="true" />
+      <created>1715777027456</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1715777027456</updated>
+    </task>
+    <task id="LOCAL-00047" summary="reprompt issue">
+      <option name="closed" value="true" />
+      <created>1715779397804</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1715779397804</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IDL what i did. Add some top management functionality" />
+    <MESSAGE value="Report and redeemable item functionality added&#10;&#10;Add menu (not complete) with nested class" />
+    <MESSAGE value="Add register functionality" />
+    <MESSAGE value="DB library" />
+    <MESSAGE value="Improve DB performance" />
+    <MESSAGE value="Qian Yiin Code fixed and updated" />
+    <MESSAGE value="IDK what is this" />
+    <MESSAGE value="Remove input output from staff class" />
+    <MESSAGE value="." />
+    <MESSAGE value="Staff no need name, username in user class" />
+    <MESSAGE value="remove register" />
+    <MESSAGE value="Color welcome screen, move general function and SLD to Util folder" />
+    <MESSAGE value="Tier point and point validity check" />
+    <MESSAGE value="Disclaimer and move login register to util" />
+    <MESSAGE value="Thank you" />
+    <MESSAGE value="Repeat display DASH" />
+    <MESSAGE value="Report" />
+    <MESSAGE value="Modify on-shelf status" />
+    <MESSAGE value="fixed logic error&#10;simplify code&#10;change incorrect spelling&#10;fixed some warning" />
+    <MESSAGE value="revert some changes" />
+    <MESSAGE value="sql" />
+    <MESSAGE value="logout text" />
+    <MESSAGE value="row pos" />
+    <MESSAGE value="category" />
+    <MESSAGE value="reprompt issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="reprompt issue" />
+  </component>
+</project>
